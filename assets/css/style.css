@@ -5,11 +5,12 @@ body {
   background-size: cover;
 }
   .jumbotron{
- 
+    font-family: 'Lobster', cursive;
+    font-size: 100px;
     color:black;
     opacity: 0.6;
     border:5px grey solid;
-  font: 2em Arial,sans-serif;
+  
   }
   .ride{
     font-size:30px;
