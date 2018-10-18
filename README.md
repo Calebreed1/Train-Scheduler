@@ -6,7 +6,7 @@ This is an app that populates realtime data to tell you when each train arrival,
 You can add your own train in the form below the table to track and monitor! DOnt be late!
 
 # Website Image 
-!{screenshot}(assets/images/trains.jpg)
+![screenshot](assets/images/trains.jpg)
 
 
 # Webiste Link
